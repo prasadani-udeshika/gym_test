@@ -1,0 +1,38 @@
+/*@font-face {*/
+/*  font-family: 'Berkshire Swash';*/
+/*  font-style: normal;*/
+/*  font-weight: 400;*/
+/*  src: url(../fonts/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs42.ttf) format('truetype');*/
+/*}*/
+
+@font-face {
+  font-family: 'Berkshire Swash';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Kong.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Noticia Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Kong.otf) format('truetype');
+}
+@font-face {
+  font-family: 'Noticia Text';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/Kong.otf) format('truetype');
+}
+@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Kong.otf) format('truetype');
+}
+@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/Kong.otf) format('truetype');
+}
